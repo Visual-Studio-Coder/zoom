@@ -5,9 +5,6 @@
   "description": "Start, schedule and join Zoom meetings.",
   "icon": "zoom.png",
   "author": "thomaslombart",
-  "contributors": [
-    "Vaibhav-Satishkumar"
-  ],
   "owner": "raycast",
   "access": "public",
   "categories": [
