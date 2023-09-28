@@ -6,6 +6,9 @@
   "icon": "zoom.png",
   "author": "thomaslombart",
   "owner": "raycast",
+  "contributors": [
+    "Vaibhav-Satishkumar"
+  ],
   "access": "public",
   "categories": [
     "Communication"
